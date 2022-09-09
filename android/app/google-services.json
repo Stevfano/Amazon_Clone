@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583800470306",
+    "project_id": "clone-6f211",
+    "storage_bucket": "clone-6f211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583800470306:android:5b9f428eb5c2179f5cc37b",
+        "android_client_info": {
+          "package_name": "stevfano.app.amazon_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583800470306-pk0dmkr776armosh4mh36i5965mqbhns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKglriKG74HFEuep1c7pqAMT7ZbQToN3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583800470306-pk0dmkr776armosh4mh36i5965mqbhns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
